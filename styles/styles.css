@@ -74,3 +74,19 @@
     margin-right: 20px;
     text-align: center;
 }
+
+.img-watch{
+    position: relative;
+    border-radius: 8px;
+    text-align:center;
+    margin-top: 120px;  
+}
+.main-image{
+    position: absolute;
+    
+}
+.overlay-image{
+    position: relative;
+}
+ 
+  
