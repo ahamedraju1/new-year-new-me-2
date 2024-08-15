@@ -109,4 +109,32 @@
     color: #F15B22;
     margin-top: 10px;
 } 
-  
+/* footer styles */
+
+.footer{
+    margin-top: 120px;
+    background-color: #151414;
+   
+}
+.footer-title{
+    font-size: 45px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.footer-column{
+    display: flex;
+    gap: 220px; 
+}
+.footer-description{
+     color: #FFFFFF;
+     font-size: 16px;
+}
+.footer-column2{
+   
+}
+
+.sub-title{
+    font-size: 25px;
+    color: #FFFFFF;
+    
+}
